@@ -7,10 +7,13 @@ this side include Controllers, ServiceRegistration(write service and after regis
 all db define ,entities class and connection dbcontext in here
 
 # what is App.Business project
-All service define here
+All service define here. inclue define here
 
 
 # Derlenmiş Kodun Sunucuda Çalışması İçin Kurulması Gereken Paket
 ### `Bir defa kurulması yeterlidir`
 npm install -g serve 
+
+# class
+In class you define with "?" nullable. In addition Foreign Key define here. For this use example BankData
 
